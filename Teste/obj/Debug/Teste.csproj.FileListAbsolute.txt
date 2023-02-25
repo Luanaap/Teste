@@ -1,0 +1,11 @@
+C:\Luana-cursos\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Luana-cursos\Teste\Teste\bin\Debug\Teste.exe
+C:\Luana-cursos\Teste\Teste\bin\Debug\Teste.pdb
+C:\Luana-cursos\Teste\Teste\obj\Debug\Teste.csproj.AssemblyReference.cache
+C:\Luana-cursos\Teste\Teste\obj\Debug\Teste.csproj.SuggestedBindingRedirects.cache
+C:\Luana-cursos\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Luana-cursos\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Luana-cursos\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Luana-cursos\Teste\Teste\obj\Debug\Teste.exe
+C:\Luana-cursos\Teste\Teste\obj\Debug\Teste.pdb
+C:\Luana-cursos\Teste\Teste\obj\Debug\Teste.Form1.resources
